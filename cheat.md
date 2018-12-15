@@ -17,6 +17,8 @@ Italic 2: __This is an italic text__
 
 <!--quotes-->
 > quoting some text
+>> nested quoting some text
+
 
 <!--strikethrough-->
 ~~This text~~ is strikethrough
@@ -36,6 +38,15 @@ ___
 
 [Youtube](http://www.youtube.com
 "Youtube")
+
+<!--code-->
+`some code goes here` 
+
+<!--horizontal lines-->
+ 
+----
+****
+
 
 <!--unordered list-->
 
@@ -93,6 +104,4 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
-
-
 
