@@ -15,6 +15,9 @@ Italic 1: **This is an italic text**
 
 Italic 2: __This is an italic text__
 
+<!--quotes-->
+> quoting some text
+
 <!--strikethrough-->
 ~~This text~~ is strikethrough
 
