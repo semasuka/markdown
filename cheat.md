@@ -21,6 +21,10 @@ Italic 2: __This is an italic text__
 <!--strikethrough-->
 ~~This text~~ is strikethrough
 
+<!--defintion>
+term
+: the definition of the term goes here
+
 <!--Horizontal rule-->
 ___
 - - -
