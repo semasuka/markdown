@@ -99,3 +99,12 @@ ___
 * [x] Task 2
 * [ ] Task 3
 
+<!-- for the reference for links or images
+
+![image][1]
+[link][2]
+
+[1]: ../asset/image.jpg
+[2]: https://facebook.com
+
+-->
