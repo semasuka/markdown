@@ -42,12 +42,6 @@ ___
 <!--code-->
 `some code goes here` 
 
-<!--horizontal lines-->
- 
-----
-****
-
-
 <!--unordered list-->
 
 * Item 1
